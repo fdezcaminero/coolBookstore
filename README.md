@@ -1,5 +1,3 @@
-# coolBookstore
-
 <div align="center">
   <h1><b>Cool Bookstore (created with React)</b></h1>
 </div>
